@@ -1,0 +1,4 @@
+streamlit
+iplotly.express
+matplotlib
+numpy
